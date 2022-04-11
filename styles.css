@@ -113,7 +113,7 @@ box-sizing: border-box;
 
 .list {
     padding: 0 20px;
-    /* list-style: none; - стилистика списка */
+    list-style: none; - */стилистика списка */
 }
 
 .list li {
